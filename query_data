@@ -6,6 +6,12 @@ public class Hello2 {
         System.out.Print("");
         System.out.print("use different programming tools");
 
+        int mynum = 18;
+        System.out.print(mynum);
+        int mynum2 = 20;
+        System.out.print(mynum2);
+
+
 
     }
 }
